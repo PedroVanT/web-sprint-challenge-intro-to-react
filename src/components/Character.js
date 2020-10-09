@@ -15,6 +15,7 @@ const CharacterCard = styled.div`
   background-clip: border-box;
   color: yellow;
   font-size: 1.2rem;
+
   h3 {
     margin-left: 3%;
   }
