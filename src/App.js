@@ -26,7 +26,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <h1 className="Header">Characters</h1>
+      <h1 className="Header">Inhabitants From A Galaxy Far Far Away</h1>
       {data.map((item) => {
         return <Character characterInfo={item} />;
       })}
